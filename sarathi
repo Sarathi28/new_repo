@@ -10,5 +10,4 @@ done
 echo " Factorial is $fact"
 done
 
-echo "*******************************************"
 
